@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/javainside/com/daggertest/DaggerTestApp.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/javainside/com/daggertest/di/DaggerTestImageModelModule.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/javainside/com/daggertest/di/DaggerTestSpeakerModule.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/javainside/com/daggertest/di/IDaggerTestComponent.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/javainside/com/daggertest/model/ImageModel.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/javainside/com/daggertest/model/Speaker.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_star_rate_black.svg" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
